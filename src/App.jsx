@@ -18,7 +18,7 @@ import { supabase } from "./supabase";
 // ======================================================
 
 const SHOP_NAME = "SAASNA TECHNOLOGIES";
-const WHATSAPP_NUMBER = "916381780269";
+const WHATSAPP_NUMBER = "918122175009";
 
 const INSTAGRAM_URL =
   "https://www.instagram.com/saasnatechnologies/";
